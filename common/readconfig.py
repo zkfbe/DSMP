@@ -4,7 +4,9 @@ import configparser
 from config.conf import cm
 
 HOST = 'HOST'
-
+USER = 'USER'
+ACCOUNT = 'ACCOUNT'
+PASSWORD = 'PASSWORD'
 
 class ReadConfig(object):
     """配置文件"""
@@ -27,6 +29,13 @@ class ReadConfig(object):
     def url(self):
         return self._get(HOST, HOST)
 
+    @property
+    def account(self):
+        return self._get(USER, ACCOUNT)
+
+    @property
+    def password(self):
+        return self._get(USER, PASSWORD)
 
 ini = ReadConfig()
 

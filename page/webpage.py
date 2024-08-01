@@ -69,6 +69,11 @@ class WebPage(object):
         sleep()
         log.info("点击元素：{}".format(locator))
 
+    def is_click_oneofthem(self, locator):
+        self.find_elements(locator)[0].click()
+        sleep()
+        log.info("点击元素：{}".format(locator))
+
     def element_text(self, locator):
         """获取当前的text"""
         _text = self.find_element(locator).text
@@ -84,3 +89,4 @@ class WebPage(object):
         """刷新页面F5"""
         self.driver.refresh()
         self.driver.implicitly_wait(30)
+
