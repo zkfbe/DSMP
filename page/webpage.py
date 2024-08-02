@@ -90,3 +90,7 @@ class WebPage(object):
         self.driver.refresh()
         self.driver.implicitly_wait(30)
 
+    def get_url_now(self):
+        """获取当前页面url"""
+        return self.driver.current_url
+

@@ -5,8 +5,10 @@ from config.conf import cm
 
 HOST = 'HOST'
 USER = 'USER'
-ACCOUNT = 'ACCOUNT'
+USERNAME = 'USERNAME'
 PASSWORD = 'PASSWORD'
+VERIFY_CODE = 'VERIFY_CODE'
+NS = 'NS'
 
 class ReadConfig(object):
     """配置文件"""
@@ -30,14 +32,21 @@ class ReadConfig(object):
         return self._get(HOST, HOST)
 
     @property
-    def account(self):
-        return self._get(USER, ACCOUNT)
+    def username(self):
+        return self._get(USER, USERNAME)
 
     @property
     def password(self):
         return self._get(USER, PASSWORD)
+    @property
+    def verify_code(self):
+        return self._get(VERIFY_CODE, VERIFY_CODE)
+
+    @property
+    def ns(self):
+        return self._get(USER, NS)
 
 ini = ReadConfig()
 
 if __name__ == '__main__':
-    print(ini.url)
+    print(ini.ns)
