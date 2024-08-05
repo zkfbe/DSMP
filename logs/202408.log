@@ -1,2 +1,473 @@
 INFO	2024-08-01 13:53:38,972	[logger.py:38]	hello world
 INFO	2024-08-01 13:54:33,315	[logger.py:38]	hello world
+INFO	2024-08-05 11:03:52,863	[logger.py:38]	hello world
+INFO	2024-08-05 11:21:49,578	[logger.py:38]	hello world
+INFO	2024-08-05 11:24:43,954	[logger.py:38]	hello world
+INFO	2024-08-05 11:42:57,678	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 11:42:58,739	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 11:43:00,346	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 11:43:00,964	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 11:43:01,526	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:43:02,079	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 11:43:03,122	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 11:43:03,127	[test_admin.py:35]	https://192.168.142.200/tenant/list?page=1&page_size=10
+INFO	2024-08-05 11:43:05,217	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 11:43:05,217	[randomname.py:5]	1
+INFO	2024-08-05 11:43:05,768	[webpage.py:64]	输入文本：lzq_KYve
+INFO	2024-08-05 11:43:06,314	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 11:43:06,866	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:43:07,415	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:43:08,451	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 11:43:11,462	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 11:43:11,462	[test_admin.py:48]	新建成功
+INFO	2024-08-05 11:44:17,002	[logger.py:38]	hello world
+INFO	2024-08-05 11:44:26,428	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 11:44:27,481	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 11:44:29,019	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 11:44:29,648	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 11:44:30,210	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:44:30,762	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 11:44:31,801	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 11:44:31,804	[test_admin.py:35]	https://192.168.142.200/tenant/list?page=1&page_size=10
+INFO	2024-08-05 11:44:33,867	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 11:44:33,867	[randomname.py:5]	1
+INFO	2024-08-05 11:44:34,411	[webpage.py:64]	输入文本：lzq_rTbx
+INFO	2024-08-05 11:44:34,959	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 11:44:35,509	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:44:36,064	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:44:37,097	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 11:44:37,111	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 11:44:37,111	[test_admin.py:48]	新建成功
+INFO	2024-08-05 11:44:39,168	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 11:44:39,719	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:44:40,268	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 11:44:40,821	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 11:44:41,363	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 11:44:42,397	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 11:44:42,405	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 11:44:42,405	[test_admin.py:61]	密码重置成功！
+INFO	2024-08-05 11:44:44,451	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 11:44:45,504	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 11:44:45,513	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 11:44:45,513	[test_admin.py:71]	删除成功
+INFO	2024-08-05 11:46:28,219	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 11:46:29,273	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 11:46:32,377	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 11:46:32,999	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 11:46:33,557	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:46:34,111	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 11:46:35,160	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 11:46:37,224	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 11:46:37,772	[webpage.py:64]	输入文本：lzq_NpSC
+INFO	2024-08-05 11:46:38,317	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 11:46:38,867	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:46:39,488	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:46:40,519	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 11:46:40,535	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 11:46:42,586	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 11:46:43,143	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 11:46:43,700	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 11:46:44,246	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 11:46:44,801	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 11:46:45,834	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 11:46:45,844	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 11:46:47,883	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 11:46:48,921	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 11:46:48,933	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:00:31,031	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:00:32,091	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:00:33,599	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:03:24,694	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:03:25,763	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:03:27,274	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:03:28,364	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 14:03:29,001	[webpage.py:64]	输入文本：lzq3_goEx
+INFO	2024-08-05 14:03:30,288	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:03:30,838	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:03:31,408	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:03:31,963	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:03:33,002	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:04:05,664	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:04:06,720	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:04:08,281	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:04:09,325	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 14:04:09,955	[webpage.py:64]	输入文本：lzq3
+INFO	2024-08-05 14:04:11,069	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:04:11,615	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:04:12,185	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:04:12,744	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:04:13,787	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:08:08,722	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:08:09,811	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:08:11,302	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:08:11,968	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:08:12,538	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:08:13,093	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:08:14,150	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:08:16,227	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:08:16,775	[webpage.py:64]	输入文本：lzq3_ISJj
+INFO	2024-08-05 14:08:17,328	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:08:17,883	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:08:18,435	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:08:19,471	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:08:19,486	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:08:21,536	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:08:22,092	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:08:22,650	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:08:23,200	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:08:23,746	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:08:24,781	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:08:24,789	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:08:26,828	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:08:27,869	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:08:27,877	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:08:28,952	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:09:29,226	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:09:30,278	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:09:31,824	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:09:32,869	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 14:09:43,389	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:09:44,427	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:09:45,909	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:09:46,542	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:09:47,107	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:09:47,660	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:09:48,703	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:09:50,761	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:09:51,308	[webpage.py:64]	输入文本：lzq3_xrDp
+INFO	2024-08-05 14:09:51,852	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:09:52,404	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:09:52,956	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:09:53,998	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:09:54,012	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:09:56,062	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:09:56,617	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:09:57,171	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:09:57,722	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:09:58,268	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:09:59,298	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:09:59,309	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:10:01,347	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:10:02,387	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:10:02,396	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:19:16,734	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:19:17,790	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:19:19,288	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:19:19,923	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:19:20,486	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:19:21,035	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:19:22,074	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:19:24,141	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:19:24,691	[webpage.py:64]	输入文本：lzq3_QzJO
+INFO	2024-08-05 14:19:25,234	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:19:25,787	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:19:26,335	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:19:27,372	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:19:27,386	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:19:29,443	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:19:29,992	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:19:30,545	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:19:31,092	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:19:31,646	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:19:32,685	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:19:32,692	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:19:34,723	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:19:35,763	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:19:35,771	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:19:36,834	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:20:17,719	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:20:18,772	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:20:20,280	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:20:20,902	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:20:21,468	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:20:22,021	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:20:23,065	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:20:25,127	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:20:25,673	[webpage.py:64]	输入文本：lzq3_pYMS
+INFO	2024-08-05 14:20:26,215	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:20:26,768	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:20:27,320	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:20:28,354	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:20:28,367	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:20:30,424	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:20:30,971	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:20:31,528	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:20:32,074	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:20:32,628	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:20:33,666	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:20:33,674	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:20:35,743	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:20:36,788	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:20:36,796	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:22:29,017	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:22:30,074	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:22:31,531	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:22:32,151	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:22:32,713	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:22:33,266	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:22:34,313	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:22:36,372	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:22:36,921	[webpage.py:64]	输入文本：lzq3_bphn
+INFO	2024-08-05 14:22:37,466	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:22:38,019	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:22:38,567	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:22:39,600	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:22:39,614	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:22:41,676	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:22:42,224	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:22:42,769	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:22:43,314	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:22:43,861	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:22:44,893	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:22:44,900	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:22:46,935	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:22:47,973	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:22:47,981	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:24:55,474	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:24:56,532	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:24:58,093	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:24:58,714	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:24:59,274	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:24:59,826	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:25:00,873	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:25:02,940	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:25:03,487	[webpage.py:64]	输入文本：lzq3_oRXY
+INFO	2024-08-05 14:25:04,033	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:25:04,581	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:25:05,127	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:25:06,165	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:25:06,180	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:25:08,235	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:25:08,785	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:25:09,332	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:25:09,876	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:25:10,430	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:25:11,463	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:25:11,471	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:25:13,507	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:25:14,548	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:25:14,556	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:39:56,542	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:39:57,603	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:39:59,186	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:39:59,823	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:40:00,390	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:40:00,943	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:40:01,995	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:40:04,059	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:40:04,610	[webpage.py:64]	输入文本：lzq3_tUgn
+INFO	2024-08-05 14:40:05,154	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:40:05,707	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:40:06,255	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:40:07,293	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:40:07,307	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:40:09,363	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:40:09,915	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:40:10,465	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:40:11,013	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:40:11,562	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:40:12,602	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:40:12,611	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:40:14,651	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:40:15,688	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:40:15,697	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:43:42,158	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:43:43,211	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:43:44,753	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:43:45,375	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:43:45,936	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:43:46,490	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:43:47,531	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:43:49,597	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:43:50,146	[webpage.py:64]	输入文本：lzq3_nAuU
+INFO	2024-08-05 14:43:50,689	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:43:51,243	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:43:51,791	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:43:52,828	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:43:52,842	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:43:54,900	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:43:55,447	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:43:55,997	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:43:56,543	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:43:57,085	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:43:58,121	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:43:58,135	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:44:00,174	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:44:01,215	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:44:01,226	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:44:32,838	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:44:33,891	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:44:35,407	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:44:36,029	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:44:36,594	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:44:37,141	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:44:38,188	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:44:40,249	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:44:40,800	[webpage.py:64]	输入文本：lzq3_tZMb
+INFO	2024-08-05 14:44:41,348	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:44:41,898	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:44:42,448	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:44:43,481	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:44:43,495	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:44:45,547	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:44:46,095	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:44:46,650	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:44:47,199	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:44:47,740	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:44:48,781	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:44:48,789	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:44:50,830	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:44:51,874	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:44:51,882	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 14:53:37,507	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 14:53:38,592	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 14:53:41,123	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 14:53:41,752	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:53:42,321	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:53:42,869	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:53:43,924	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 14:53:45,993	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 14:53:46,542	[webpage.py:64]	输入文本：lzq3_kmpQ
+INFO	2024-08-05 14:53:47,089	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 14:53:47,642	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:53:48,192	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:53:49,228	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:53:49,242	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 14:53:51,450	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 14:53:51,999	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 14:53:52,566	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:53:53,122	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 14:53:53,665	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 14:53:54,707	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 14:53:54,715	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 14:53:56,758	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 14:53:57,796	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 14:53:57,804	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 15:06:18,424	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:06:19,483	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:06:21,279	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:06:21,912	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:06:22,468	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:06:23,018	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:06:24,074	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 15:06:26,147	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 15:06:26,695	[webpage.py:64]	输入文本：lzq3_zCHs
+INFO	2024-08-05 15:06:27,241	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:06:27,788	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:06:28,338	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:06:29,376	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:06:29,390	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 15:06:31,445	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 15:06:31,998	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:06:32,549	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:06:33,095	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:06:33,651	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:06:34,774	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:06:34,795	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 15:06:36,827	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 15:06:37,870	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 15:06:37,878	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 15:06:45,800	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:06:46,838	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:06:48,453	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:06:49,487	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 15:10:44,903	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:10:45,960	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:10:47,505	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:10:48,134	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:10:48,708	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:10:49,263	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:10:50,309	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 15:10:52,377	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 15:10:52,935	[webpage.py:64]	输入文本：lzq3_VWiH
+INFO	2024-08-05 15:10:53,478	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:10:54,033	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:10:54,582	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:10:55,621	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:10:55,638	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 15:10:57,693	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 15:10:58,249	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:10:58,801	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:10:59,349	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:10:59,895	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:11:00,935	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:11:00,943	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 15:11:02,985	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 15:11:04,030	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 15:11:04,039	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 15:11:07,354	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:11:08,385	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:11:09,907	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:11:10,943	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 15:12:41,152	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:12:42,210	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:12:43,798	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:12:44,431	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:12:44,997	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:12:45,555	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:12:46,594	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 15:12:48,666	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 15:12:49,216	[webpage.py:64]	输入文本：lzq3_uPBg
+INFO	2024-08-05 15:12:49,764	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:12:50,314	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:12:50,864	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:12:51,905	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:12:51,919	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 15:12:53,987	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 15:12:54,538	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:12:55,089	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:12:55,635	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:12:56,192	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:12:57,228	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:12:57,236	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 15:12:59,275	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 15:13:00,317	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 15:13:00,325	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 15:13:03,782	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:13:04,821	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:13:06,250	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:13:07,282	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 15:14:38,758	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:14:39,812	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:14:41,283	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:14:41,939	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:14:42,523	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:14:43,075	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:14:44,115	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 15:14:46,183	[webpage.py:70]	点击元素：('xpath', '//main/div/div/div[2]/div[1]/button')
+INFO	2024-08-05 15:14:46,727	[webpage.py:64]	输入文本：lzq3_zdld
+INFO	2024-08-05 15:14:47,273	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:14:47,823	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:14:48,372	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:14:49,409	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:14:49,423	[webpage.py:80]	获取文本：新建成功
+INFO	2024-08-05 15:14:51,480	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-05 15:14:52,027	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:14:52,574	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:14:53,122	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-05 15:14:53,679	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:14:54,713	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-05 15:14:54,720	[webpage.py:80]	获取文本：密码重置成功！
+INFO	2024-08-05 15:14:56,762	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-05 15:14:57,800	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-05 15:14:57,808	[webpage.py:80]	获取文本：删除成功
+INFO	2024-08-05 15:15:01,012	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:15:02,047	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:15:03,537	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:15:04,568	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 15:15:05,178	[webpage.py:64]	输入文本：lzq3
+INFO	2024-08-05 15:15:06,220	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 15:15:06,760	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:15:07,320	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:15:07,868	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:15:08,899	[webpage.py:70]	点击元素：('xpath', '//form/div[2]/button[2]')
+INFO	2024-08-05 15:16:04,438	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-05 15:16:05,493	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-05 15:16:07,076	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-05 15:16:08,110	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-05 15:16:08,724	[webpage.py:64]	输入文本：lzq3
+INFO	2024-08-05 15:16:09,804	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-05 15:16:10,352	[webpage.py:64]	输入文本：admin
+INFO	2024-08-05 15:16:10,918	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-05 15:16:11,464	[webpage.py:64]	输入文本：12345
+INFO	2024-08-05 15:16:12,502	[webpage.py:70]	点击元素：('xpath', '//form/div[2]/button[2]')

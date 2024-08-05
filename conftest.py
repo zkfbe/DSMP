@@ -5,15 +5,16 @@ import pytest
 from selenium import webdriver
 from py.xml import html
 
+from utils.times import sleep
+
 driver = None
 
 
-@pytest.fixture(scope='session', autouse=True)
+@pytest.fixture(scope='class', autouse=True)
 def drivers(request):
     global driver
-    if driver is None:
-        driver = webdriver.Chrome()
-        driver.maximize_window()
+    driver = webdriver.Chrome()
+    driver.maximize_window()
 
     def fn():
         driver.quit()

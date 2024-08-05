@@ -49,9 +49,30 @@ class Admin(WebPage):
         """新建租户-确定"""
         self.is_click(admin['新建租户确认按钮'])
 
-
     def get_new_ns_notice(self):
         return self.element_text(admin['新建租户成功弹窗'])
+
+    def click_reset_button(self):
+        """点击重置密码"""
+        self.is_click(admin['重置租户密码按钮'])
+
+    def input_reset_adminpassword(self,adminpassword):
+        self.input_text(admin['重置密码管理员密码'],txt=adminpassword)
+
+    def input_reset_newpassword(self,newpassword):
+        self.input_text(admin['重置密码新密码'],txt=newpassword)
+
+    def input_reset_confirmpassword(self,confirmpassword):
+        self.input_text(admin['重置密码确认密码'],txt=confirmpassword)
+
+    def input_reset_verify_code(self,verify_code):
+        self.input_text(admin['重置密码验证码'],txt=verify_code)
+
+    def click_reset_sure(self):
+        self.is_click(admin['重置密码确定按钮'])
+
+    def get_reset_notice(self):
+        return self.element_text(admin['重置密码成功弹窗'])
 
     def click_delete_button(self):
         """点击删除租户按钮"""

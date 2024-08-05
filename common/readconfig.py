@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 import configparser
 from config.conf import cm
+from utils.randomname import random_name
 
 HOST = 'HOST'
 USER = 'USER'
@@ -9,6 +10,7 @@ USERNAME = 'USERNAME'
 PASSWORD = 'PASSWORD'
 VERIFY_CODE = 'VERIFY_CODE'
 NS = 'NS'
+NEWPASSWORD = 'NEWPASSWORD'
 
 class ReadConfig(object):
     """配置文件"""
@@ -43,9 +45,16 @@ class ReadConfig(object):
         return self._get(VERIFY_CODE, VERIFY_CODE)
 
     @property
+    def newns(self):
+        return self._get(USER, NS) + random_name()
+
+    @property
     def ns(self):
         return self._get(USER, NS)
 
+    @property
+    def newpassword(self):
+        return self._get(USER, NEWPASSWORD)
 ini = ReadConfig()
 
 if __name__ == '__main__':
