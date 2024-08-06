@@ -1,1 +1,13 @@
-# dsmp-selenium
+DSMP自动化测试框架:
+POM模式下selenium+pytest+allure
+封装selenium页面操作至page文件夹webpage下，包括定位元素、点击元素、点击多个元素中的一个、获取元素文本等，并且显示等待定位元素
+将测试用例、测试页面、测试元素分离
+测试用例编写在TestCase文件夹下，
+测试页面在page_object中编写,继承webpage类
+测试元素以yaml文件形式存储，并通过common文件夹下readelement读取
+将测试过程中填写的参数存放至config文件夹下config.ini文件下，并使用conf文件拼接文件目录，通过common文件夹下readconfig读取参数
+pytest、allure执行参数存放至根目录pytest.ini文件下
+封装常用测试脚本至script文件夹下，myinspect.py文件用于检测页面元素yaml是否填写正确
+封装log日志，记录操作元素时间
+将工具类存放至utils下
+report中存放pytest执行结果，通过allure生成报告
