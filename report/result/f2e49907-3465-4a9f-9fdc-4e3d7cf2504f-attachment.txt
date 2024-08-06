@@ -1,0 +1,8 @@
+INFO	2024-08-06 15:02:19,745	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-06 15:02:20,781	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-06 15:02:22,391	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-06 15:02:23,001	[webpage.py:64]	输入文本：admin
+INFO	2024-08-06 15:02:23,562	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-06 15:02:24,116	[webpage.py:64]	输入文本：12345
+INFO	2024-08-06 15:02:25,159	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-06 15:02:25,162	[test_admin.py:39]	https://192.168.142.200/tenant/list?page=1&page_size=10

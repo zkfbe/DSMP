@@ -1,0 +1,22 @@
+INFO	2024-08-06 15:02:52,444	[webpage.py:70]	点击元素：('xpath', '//header[2]/div/div/div[3]/div/div/div/div[2]')
+INFO	2024-08-06 15:02:53,514	[webpage.py:70]	点击元素：('xpath', "//span[contains(text(),'系统管理')]")
+INFO	2024-08-06 15:02:54,550	[webpage.py:70]	点击元素：('xpath', '//main/div/div[1]/div/div[2]/div[2]/div[2]')
+INFO	2024-08-06 15:02:55,593	[webpage.py:70]	点击元素：('xpath', '//main/div/div[2]/div/div/div[2]/div[2]/button')
+INFO	2024-08-06 15:02:56,624	[webpage.py:70]	点击元素：('xpath', '//div[2]/form/div[1]/div/div[2]/div/div/div/div')
+INFO	2024-08-06 15:02:56,659	[webpage.py:78]	选择元素: SCA
+INFO	2024-08-06 15:02:57,234	[webpage.py:64]	输入文本：SCA_emXe
+INFO	2024-08-06 15:02:57,780	[webpage.py:64]	输入文本：1.0.0
+INFO	2024-08-06 15:02:58,807	[webpage.py:70]	点击元素：('xpath', '//div[2]/form/div[4]/div/div[2]/div/div/div/div')
+INFO	2024-08-06 15:02:58,841	[webpage.py:78]	选择元素: HTTPS
+INFO	2024-08-06 15:02:59,407	[webpage.py:64]	输入文本：192.168.121.200
+INFO	2024-08-06 15:02:59,953	[webpage.py:64]	输入文本：443
+INFO	2024-08-06 15:03:00,533	[webpage.py:64]	输入文本：6675395b47811d2b7c7a8c73
+INFO	2024-08-06 15:03:01,123	[webpage.py:64]	输入文本：209f2cbc-440e-4bec-a419-4ad3b441c6f2
+INFO	2024-08-06 15:03:02,161	[webpage.py:70]	点击元素：('xpath', '//div[2]/form/div[9]/div/div/div/div/div/button[2]')
+INFO	2024-08-06 15:03:02,172	[webpage.py:83]	获取元素文本：('xpath', "//span[contains(text(),'发送成功')]")
+INFO	2024-08-06 15:03:02,172	[webpage.py:84]	获取文本：发送成功
+INFO	2024-08-06 15:03:02,172	[test_engine.py:69]	发送成功
+INFO	2024-08-06 15:03:03,387	[webpage.py:70]	点击元素：('xpath', '//div[2]/form/div[9]/div/div/div/div/div/button[3]')
+INFO	2024-08-06 15:03:03,398	[webpage.py:83]	获取元素文本：('xpath', "//span[contains(text(),'添加成功')]")
+INFO	2024-08-06 15:03:03,398	[webpage.py:84]	获取文本：添加成功
+INFO	2024-08-06 15:03:03,398	[test_engine.py:76]	添加成功

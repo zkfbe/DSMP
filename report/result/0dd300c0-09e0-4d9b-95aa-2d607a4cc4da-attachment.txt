@@ -1,0 +1,9 @@
+INFO	2024-08-06 15:02:32,938	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[1]')
+INFO	2024-08-06 15:02:33,501	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-06 15:02:34,069	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-06 15:02:34,616	[webpage.py:64]	输入文本：Jtwmy@dt4gx1
+INFO	2024-08-06 15:02:35,166	[webpage.py:64]	输入文本：12345
+INFO	2024-08-06 15:02:36,199	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/div[3]/button[2]')
+INFO	2024-08-06 15:02:36,207	[webpage.py:83]	获取元素文本：('xpath', '//div[2]/div/div/div/div/div/span[2]')
+INFO	2024-08-06 15:02:36,207	[webpage.py:84]	获取文本：密码重置成功！
+INFO	2024-08-06 15:02:36,207	[test_admin.py:77]	密码重置成功！

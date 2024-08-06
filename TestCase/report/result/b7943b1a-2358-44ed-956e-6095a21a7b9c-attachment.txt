@@ -1,0 +1,5 @@
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div/div[2]/button[2]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:83 获取元素文本：('xpath', '//div[2]/div/div/div/div/div/span[2]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:84 获取文本：删除成功
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:test_admin.py:88 删除成功

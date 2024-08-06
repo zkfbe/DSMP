@@ -1,0 +1,11 @@
+INFO	2024-08-06 14:21:51,557	[webpage.py:32]	打开网页：https://192.168.142.200
+INFO	2024-08-06 14:21:52,594	[webpage.py:70]	点击元素：('id', 'details-button')
+INFO	2024-08-06 14:21:54,019	[webpage.py:70]	点击元素：('id', 'proceed-link')
+INFO	2024-08-06 14:21:55,051	[webpage.py:70]	点击元素：('xpath', '//form/button[2]')
+INFO	2024-08-06 14:21:55,663	[webpage.py:64]	输入文本：lzq3
+INFO	2024-08-06 14:21:56,861	[webpage.py:70]	点击元素：('xpath', '//form/button[1]')
+INFO	2024-08-06 14:21:57,415	[webpage.py:64]	输入文本：admin
+INFO	2024-08-06 14:21:57,989	[webpage.py:64]	输入文本：Jtwmy@dt4gx
+INFO	2024-08-06 14:21:58,548	[webpage.py:64]	输入文本：12345
+INFO	2024-08-06 14:21:59,583	[webpage.py:70]	点击元素：('xpath', '//form/div[2]/button[2]')
+INFO	2024-08-06 14:21:59,590	[test_engine.py:40]	https://192.168.142.200/dashboard

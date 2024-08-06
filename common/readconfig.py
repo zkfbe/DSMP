@@ -11,6 +11,17 @@ PASSWORD = 'PASSWORD'
 VERIFY_CODE = 'VERIFY_CODE'
 NS = 'NS'
 NEWPASSWORD = 'NEWPASSWORD'
+SCA = 'SCA'
+SAST = 'SAST'
+IAST = 'IAST'
+NAME = 'NAME'
+IP = 'IP'
+PORT = 'PORT'
+AK = 'AK'
+SK = 'SK'
+VERSION = 'VERSION'
+PROTOCOL = 'PROTOCOL'
+
 
 class ReadConfig(object):
     """配置文件"""
@@ -40,6 +51,7 @@ class ReadConfig(object):
     @property
     def password(self):
         return self._get(USER, PASSWORD)
+
     @property
     def verify_code(self):
         return self._get(VERIFY_CODE, VERIFY_CODE)
@@ -55,6 +67,40 @@ class ReadConfig(object):
     @property
     def newpassword(self):
         return self._get(USER, NEWPASSWORD)
+
+    @property
+    def scaname(self):
+        return self._get(SCA, NAME)
+
+    @property
+    def scaip(self):
+        return self._get(SCA, IP)
+
+    @property
+    def scaport(self):
+        return self._get(SCA, PORT)
+
+    @property
+    def scaak(self):
+        return self._get(SCA, AK)
+
+    @property
+    def scask(self):
+        return self._get(SCA, SK)
+
+    @property
+    def scanewname(self):
+        return self._get(SCA, NAME) + random_name()
+
+    @property
+    def scaversion(self):
+        return self._get(SCA, VERSION)
+
+    @property
+    def scaprotocol(self):
+        return self._get(SCA, PROTOCOL)
+
+
 ini = ReadConfig()
 
 if __name__ == '__main__':

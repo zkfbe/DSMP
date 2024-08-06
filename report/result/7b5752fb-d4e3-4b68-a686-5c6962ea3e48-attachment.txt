@@ -1,0 +1,22 @@
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//header[2]/div/div/div[3]/div/div/div/div[2]')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', "//span[contains(text(),'系统管理')]")
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//main/div/div[1]/div/div[2]/div[2]/div[2]')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//main/div/div[2]/div/div/div[2]/div[2]/button')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[1]/div/div[2]/div/div/div/div')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:78 选择元素: SCA
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：SCA_emXe
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：1.0.0
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[4]/div/div[2]/div/div/div/div')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:78 选择元素: HTTPS
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：192.168.121.200
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：443
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：6675395b47811d2b7c7a8c73
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：209f2cbc-440e-4bec-a419-4ad3b441c6f2
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[9]/div/div/div/div/div/button[2]')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:83 获取元素文本：('xpath', "//span[contains(text(),'发送成功')]")
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:84 获取文本：发送成功
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:test_engine.py:69 发送成功
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[9]/div/div/div/div/div/button[3]')
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:83 获取元素文本：('xpath', "//span[contains(text(),'添加成功')]")
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:84 获取文本：添加成功
+[32mINFO    [0m /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:test_engine.py:76 添加成功

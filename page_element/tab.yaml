@@ -1,0 +1,6 @@
+设置导航栏: "xpath==//header[2]/div/div/div[3]/div/div/div/div[2]"
+系统管理导航栏: "xpath==//span[contains(text(),'系统管理')]"
+策略导航栏: "xpath==/html/body/div[1]/div/section/div/header[2]/div/div/div[2]/ul/li[7]"
+版本流程导航栏: "xpath==/html/body/div[2]/div/div/ul/li[2]/span/a"
+
+

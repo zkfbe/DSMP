@@ -3,28 +3,29 @@
 from page.webpage import WebPage, sleep
 from common.readelement import Element
 
+adminlogin=Element('adminlogin')
 admin = Element('admin')
 
 class Admin(WebPage):
     def click_pass_button(self):
         """跳过google此页面不是安全链接"""
-        self.is_click(admin['高级按钮'])
-        self.is_click(admin['继续按钮'])
+        self.is_click(adminlogin['高级按钮'])
+        self.is_click(adminlogin['继续按钮'])
     def input_username(self, username):
         """输入账号"""
-        self.input_text(admin['账号框'],txt=username)
+        self.input_text(adminlogin['账号框'],txt=username)
 
     def input_password(self, password):
         """输入密码"""
-        self.input_text(admin['密码框'],txt=password)
+        self.input_text(adminlogin['密码框'],txt=password)
 
     def input_verify_code(self, verify_code):
         """输入万能验证码"""
-        self.input_text(admin['验证码框'],txt=verify_code)
+        self.input_text(adminlogin['验证码框'],txt=verify_code)
 
     def click_login_button(self):
         """点击登录按钮"""
-        self.is_click(admin['登录按钮'])
+        self.is_click(adminlogin['登录按钮'])
 
     def click_new_ns_button(self):
         """点击新建租户按钮"""

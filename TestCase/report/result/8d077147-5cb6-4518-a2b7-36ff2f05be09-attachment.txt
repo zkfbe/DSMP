@@ -1,0 +1,9 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:127 The chromedriver version (126.0.6478.127) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (127.0.6533.89); currently, chromedriver 127.0.6533.88 is recommended for chrome 127.*, so it is advised to delete the driver in PATH and retry
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:32 打开网页：https://192.168.142.200
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('id', 'details-button')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('id', 'proceed-link')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：admin
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：Jtwmy@dt4gx
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：12345
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//form/button[1]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:test_admin.py:39 https://192.168.142.200/tenant/list?page=1&page_size=10

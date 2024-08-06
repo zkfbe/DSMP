@@ -1,0 +1,18 @@
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//header[2]/div/div/div[3]/div/div/div/div[2]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', "//span[contains(text(),'系统管理')]")
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//main/div/div[1]/div/div[2]/div[2]/div[2]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//main/div/div[2]/div/div/div[2]/div[2]/button')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[1]/div/div[2]/div/div/div/div')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:78 选择元素: SCA
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：SCA_uGcX
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：1.0.0
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[4]/div/div[2]/div/div/div/div')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:78 选择元素: HTTPS
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：192.168.121.200
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：443
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：6675395b47811d2b7c7a8c73
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:64 输入文本：209f2cbc-440e-4bec-a419-4ad3b441c6f2
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:70 点击元素：('xpath', '//div[2]/form/div[9]/div/div/div/div/div/button[2]')
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:83 获取元素文本：('xpath', "//span[contains(text(),'发送成功')]")
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:webpage.py:84 获取文本：发送成功
+INFO     /Users/a1234/dsmp-selenium+pytest+allure/logs/202408.log:test_engine.py:66 发送成功

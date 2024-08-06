@@ -1,0 +1,5 @@
+INFO	2024-08-06 15:02:38,379	[webpage.py:70]	点击元素：('xpath', '//table/tbody/tr[1]/td[5]/button[2]')
+INFO	2024-08-06 15:02:39,419	[webpage.py:70]	点击元素：('xpath', '//div/div[2]/button[2]')
+INFO	2024-08-06 15:02:39,428	[webpage.py:83]	获取元素文本：('xpath', '//div[2]/div/div/div/div/div/span[2]')
+INFO	2024-08-06 15:02:39,428	[webpage.py:84]	获取文本：删除成功
+INFO	2024-08-06 15:02:39,428	[test_admin.py:91]	删除成功

@@ -1,0 +1,6 @@
+高级按钮: "id==details-button"
+继续按钮: "id==proceed-link"
+账号框: "id==username"
+密码框: "id==password"
+验证码框: "id==verify_code"
+登录按钮: "xpath==//form/button[1]"
